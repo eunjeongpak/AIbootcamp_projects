@@ -44,7 +44,6 @@
     사용한 데이터: 네이버 쇼핑 리뷰 데이터 (크롤링을 통해 한 브랜드의 리뷰 데이터를 수집하려고 했으나 시간 상의 문제로 깃허브에 공개된 데이터 사용)
     출처: https://github.com/bab2min/corpus/blob/master/sentiment/README.md
     
-    
     목차
       1. 데이터 소개 및 가설 설정
       2. 모델 소개 및 모델 학습 (사용한 모델: 1. GRU 모델 vs 2. BERT 모델)
